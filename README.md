@@ -48,13 +48,13 @@
 
 ### 06. LLM Orchestration & RAG
 
-* [Documentation Assistant (RAG)](https://github.com/Omar-Alasrag/My-AI-Portfolio/tree/main/06_LangChain&LangGraph/Documentation_Assistant)
+* [Documentation Assistant (RAG)](https://github.com/Omar-Alasrag/documentation-assistant)
 * [Reflextion Agent](https://github.com/Omar-Alasrag/My-AI-Portfolio/tree/main/06_LangChain&LangGraph/Reflextion_Agent)
 
 ---
 
 ### 07. MLOps
 
-* [Credit Approval MLOps System](https://github.com/Omar-Alasrag/My-AI-Portfolio/tree/main/07_MLOPS/Credit_Approval_System)
+* [Credit Approval MLOps System](https://github.com/Omar-Alasrag/Credit-Approval)
 
 ---
