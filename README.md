@@ -49,7 +49,3 @@ AI & Machine Learning Engineer focused on writing production-grade Python code, 
 
 ---
 
-### 🛠️ Core Tech Stack
-*   **Languages & Tooling:** Python, SQL, Git, `uv`, `pixi`, Pytest
-*   **AI/ML Frameworks:** PyTorch, LangChain, LangGraph, Hugging Face, Scikit-Learn, YOLO
-*   **MLOps & Backend:** Docker, Docker Compose, FastAPI, GitHub Actions, MLflow, DVC, AWS, MongoDB Atlas
