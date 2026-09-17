@@ -32,7 +32,6 @@ AI & Machine Learning Engineer focused on writing production-grade Python code, 
 *   [Face Recognition OpenCV](https://github.com/Omar-Alasrag/Face_Recognition_OpenCV) – Classical facial classification routines utilizing pixel metric arrays.
 *   [Face Distance Estimation using Facial Landmarks](https://github.com/Omar-Alasrag/Face_Distance_Estimation_using_Facial_Landmarks) – Geometric camera matrix algorithms determining frame depth vectors.
 *   [Pose-Based Exercise Repetition Counter](https://github.com/Omar-Alasrag/Pose-Based_Exercise_Repetition_Counter) – Joint spatial orientation coordinates mapped to functional repeat triggers.
-*   [Feature Matching: ORB vs SIFT](https://github.com/Omar-Alasrag/Feature_Matching_ORB_vs_SIFT) – Keypoint evaluation benchmarking affine transform transformations.
 *   [Motion Detection (Frame Differencing)](https://github.com/Omar-Alasrag/Motion_Detection_Frame_Differencing) – Low-compute mathematical isolation tracking localized pixel variations.
 
 ---
