@@ -28,7 +28,6 @@ AI & Machine Learning Engineer focused on writing production-grade Python code, 
 *   [Face Mask Detection MobileNetV3](https://github.com/Omar-Alasrag/Face_Mask_Detection_MobileNetV3) – Light-weight, edge-device friendly convolutional network deployment.
 *   [CIFAR-10 CNN Augmentation](https://github.com/Omar-Alasrag/CIFAR10_CNN_Augmentation) – Custom network architecture testing robust image processing transforms.
 *   [Vehicle Counting System](https://github.com/Omar-Alasrag/Vehicle_Counting_System) – Video-based localization and feature counting logic pipeline.
-*   [SSD Object Detection](https://github.com/Omar-Alasrag/SSD_Object_Detection) – Single-Shot MultiBox Detector deployment analyzing multi-class spaces.
 *   [Face Recognition OpenCV](https://github.com/Omar-Alasrag/Face_Recognition_OpenCV) – Classical facial classification routines utilizing pixel metric arrays.
 *   [Face Distance Estimation using Facial Landmarks](https://github.com/Omar-Alasrag/Face_Distance_Estimation_using_Facial_Landmarks) – Geometric camera matrix algorithms determining frame depth vectors.
 *   [Pose-Based Exercise Repetition Counter](https://github.com/Omar-Alasrag/Pose-Based_Exercise_Repetition_Counter) – Joint spatial orientation coordinates mapped to functional repeat triggers.
