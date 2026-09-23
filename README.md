@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Omar Al-Asrag
 
-AI & Machine Learning Engineer focused on writing production-grade Python code, designing structured software patterns, and implementing robust MLOps practices.
+AI & Machine Learning Engineer
 
 ---
 
