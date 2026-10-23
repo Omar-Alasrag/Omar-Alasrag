@@ -10,6 +10,8 @@ AI & Machine Learning Engineer
 ---
 
 ### 🤖 LLM Orchestration, RAG & Agents
+
+*   [Agentic Multi-Database Text-to-Query System (LangGraph, RAG, OpenAI)](https://github.com/Omar-Alasrag/Agentic-Multi-Database-Text-to-Query-System-LangGraph-RAG-OpenAI) – Developed during an AI internship at i-fikra; an agentic AI system translating natural language into queries across SQL, NoSQL, graph, and hypergraph databases using LangGraph, semantic schema retrieval, and iterative verification.
 *   [Documentation Assistant (RAG)](https://github.com/Omar-Alasrag/documentation-assistant) – Semantic search engine built with LangChain, ChromaDB, and Google GenAI embeddings featuring asynchronous ingestion.
 *   [Reflection Agent](https://github.com/Omar-Alasrag/Reflextion_Agent) – Multi-agent pattern design utilizing self-correction and iterative refinement cycles.
 
